@@ -1,5 +1,7 @@
     // pages/_document.tsx
     import Document, { Html, Head, Main, NextScript } from "next/document";
+    import { ServerStyleSheet } from 'styled-components'
+    
     export default class CustomDocument extends Document {
       render() {
         return (

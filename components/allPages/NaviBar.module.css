@@ -1,0 +1,12 @@
+.container{
+    background-color: rgb(102, 102, 102);
+    height:100px;
+    color:white;
+    padding:1%;
+    font-size:1.8em;
+}
+
+.nav_button{
+    margin:10px;
+    cursor: pointer;
+}
